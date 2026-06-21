@@ -135,7 +135,11 @@ const projects = [
 
         <div class="hero-actions">
           <a class="primary-action" href="#projects">Explore Now</a>
-          <a class="play-action" href="/Kerolos_Bassem_cv_20-6-2026.docx" download>
+          <a
+            class="play-action"
+            href="/Kerolos_Bassem_cv_20-6-2026.pdf"
+            download="Kerolos_Bassem_cv_20-6-2026.pdf"
+          >
             <span class="play-icon" aria-hidden="true"></span>
             Download CV
           </a>
