@@ -4,7 +4,7 @@ import heroImage from './assets/kerolos-portrait.jpeg'
 const contactLinks = [
   { label: 'Email', value: 'Kerolosbassem3@gmail.com', href: 'mailto:Kerolosbassem3@gmail.com' },
   { label: 'Phone', value: '+20 120 572 5854', href: 'tel:+201205725854' },
-  { label: 'LinkedIn', value: 'linkedin.com/in/Kerolos-Bassem', href: 'https://linkedin.com/in/Kerolos-Bassem' },
+  { label: 'LinkedIn', value: 'linkedin.com/in/kerolos-bassem-30aa0a251', href: 'https://www.linkedin.com/in/kerolos-bassem-30aa0a251' },
   { label: 'GitHub', value: 'github.com/kerolosbassem1', href: 'https://github.com/kerolosbassem1' },
 ]
 
